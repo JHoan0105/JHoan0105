@@ -24,6 +24,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ---
 
+[Resume](https://jhoan0105.github.io/Profile/Resume.html)
 
 
 <!--
