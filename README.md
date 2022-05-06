@@ -1,6 +1,14 @@
 # Hi there, I'm John 👋
 
+I've been self-employed in Ottawa for 15 years. During that time, I had the opportunity to work with
+many different businesses while providing maintenance services. Through my business contacts, I learned a
+lot about the operations of my contractees/clients. I was also a restaurateur building it from the onset where I learned many useful skills and knowledge.
+My passion in learning have led me to always be active and attentive in the activities that I had the
+opportunity to participate in.
 
+I'm currently on my summer break and I plan on learning to futher develope my skills and knowledge. 
+
+🌱 I’m currently learning ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ---
 📋 Language
 
@@ -22,6 +30,10 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ---
 
 📃[Resume](https://jhoan0105.github.io/Profile/Resume.html)
