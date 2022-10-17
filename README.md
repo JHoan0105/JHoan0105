@@ -1,13 +1,5 @@
 # Hi there, I'm John 👋
 
-I've been self-employed in Ottawa for 15 years. During that time, I had the opportunity to work with
-many different businesses while providing maintenance services. Through my business contacts, I learned a
-lot about the operations of my contractees/clients. I was also a restaurateur building it from the onset where I learned many useful skills and knowledge.
-My passion in learning have led me to always be active and attentive in the activities that I had the
-opportunity to participate in.
-
-I'm currently on my summer break and I plan on learning to futher develope my skills and knowledge. 
-
 🌱 I’m currently learning ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ---
 📋 Language
