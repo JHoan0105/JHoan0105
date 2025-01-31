@@ -31,11 +31,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ---
-
+<!--
 📃[Resume](https://jhoan0105.github.io/Profile/Resume.html)
 
 
-<!--
+
 **JHoan0105/JHoan0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
